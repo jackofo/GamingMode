@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+xkEYi0i2o=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GamingMode\\GamingMode\\GamingMode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacek\\.nuget\\packages\\inthehand.bluetoothle\\4.0.37\\inthehand.bluetoothle.4.0.37.nupkg.sha512",
+    "C:\\Users\\Jacek\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.44\\microsoft.windows.sdk.net.ref.10.0.22621.44.nupkg.sha512"
+  ],
+  "logs": []
+}
